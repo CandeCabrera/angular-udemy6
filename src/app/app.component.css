@@ -1,0 +1,16 @@
+span{
+    color: red;
+}
+
+.model-group{
+    background-color: rgb(154, 5, 48);
+    color: white;
+    text-align: center;
+    padding: 7px 30px ;
+    font-size: 17px;
+    border-radius: 3px;
+}
+
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
